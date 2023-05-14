@@ -1,0 +1,14 @@
+.images img {
+    height:250px;
+    width:280px;
+}
+.bgm
+{
+    text-align: center;
+    margin:30px;
+    font-weight:bold;
+}
+.bgm audio
+{
+    margin:10px;
+}
